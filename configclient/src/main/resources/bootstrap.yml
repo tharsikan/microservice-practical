@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8191
+# by default it consume from port 8888 that why we write here !!!!!!!
+

@@ -1,10 +1,10 @@
-package com.krish.configserver;
+package com.example.gitconfig;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigServerApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
